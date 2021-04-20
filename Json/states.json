@@ -1,0 +1,12 @@
+{
+    "state" : [
+        { "name" : "Alaska",
+        "abr" : "AL",
+        "area_code" : 2255  
+        },
+        { "name" : "Arizona",
+        "abr" : "AZ",
+        "area_code" : 1322  
+        }
+              ]
+}
